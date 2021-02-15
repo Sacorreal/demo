@@ -1,0 +1,260 @@
+ {
+    "primer sumario" : [
+        {
+            "000":"generalidades",
+            "100": "Filosofía",
+            "200" : "Religión",
+            "300" : "Ciencias Sociales",
+            "400" : "Lenguas",
+            "500" : "Ciencias Naturales",
+            "600" : "Ciencia y Tecnología", 
+            "700" : "Artes", 
+            "800" : "Literatura",
+            "900" : "Geografía e Historia"
+
+            
+
+        }],
+    "000" :[
+        {
+            "010" : "Bibliografía",
+            "020" : "Bibliotecología",
+            "030" : "Obras Enciclopédicas",
+            "050" : "Publicaciones seriadas",
+            "060" : "Museología",
+            "070" : "Periodismo",
+            "080" : "Colecciones Generales",
+            "090" : "Libros Raros"}],
+    "100" : [{
+            "110" : "Metafísica",
+            "120" : "Epistemología",
+            "130": "Fenómenos Paranormales",
+            "140" : "Escuelas Filosóficas",
+            "150" : "Psicología",
+            "160" : "Lógica", 
+            "170" : "Ética",
+            "180" : "Filosofía antigua",
+            "190" : "Filosofía moderna"}
+        ],
+    "200" :[{
+            "210" : "Teología",
+            "220" : "La Biblia",
+            "230" : "Cristianismo",
+            "240" : "Teología Cristiana",
+            "250" : "Ordenes cristianas & iglesia local",
+            "260" : "Teología social y eclesiástica",
+            "270" : "Historia del cristianismo",
+            "280" : "Confesiones & sectas cristianas",
+            "290" : "Otras religiones"
+            }],
+
+    "300": [{
+            "310" : "Estadísticas generales",
+            "320" : "Ciencia política",
+            "330" : "Economía", 
+            "340" : "Derecho",
+            "350" : "Administración pública y ciencia militar",
+            "360" : "Servicios sociales",
+            "370" : "Educación", 
+            "380" : "Comercio, comunicaciones, transporte",
+            "390" : "Costumbres, etiqueta, folclore"}],
+
+
+
+    "400" : [{    
+            "410" : "Lingüística",
+            "420" : "Inglés",
+            "430" : "Lenguas germánicas Alemán", 
+            "440" : "Lenguas romances Francés",
+            "450" : "Italiano, rumano, retorromano",
+            "460" : "Lenguas española y portuguesa", 
+            "470" : "Lenguas itálicas Latín",
+            "480" : "Lenguas helénicas Griego clásico", 
+            "490" : "Otras lenguas"}],
+
+
+    "500" : [{    
+            "510" : "Matemáticas",
+            "520" : "Astronomía",
+            "530" : "Física", 
+            "540" : "Química",
+            "550" : "Ciencias de la tierra",
+            "560" : "Paleontología, Paleozoología",
+            "570" : "Biología",
+            "580" : "Ciencias botánicas",
+            "590" : "Ciencias zoológicas. Animales"}],
+
+
+    "600" : [{    
+            "610" : "Medicina",
+            "620" : "Ingeniería",
+            "630" : "Agricultura",
+            "640": "Economía doméstica y vida familiar", 
+            "650" : "Gerencia y servicios auxiliares",
+            "660" : "Ingeniería Química",
+            "670" : "Manufactura",
+            "680" : "Manufactura para usos específicos",
+            "690": "Construcción"}],
+
+    "700" : [{
+            "710" : "Urbanismo & arte del paisaje",
+            "720" : "Arquitectura",
+            "730": "Artes plásticas",
+            "740" : "Dibujo & artes decorativas",
+            "750" : "Pinturas",
+            "760" : "Artes gráficas",
+            "770" : "Fotografía",
+            "780" : "Música",
+            "790" : "Recreación, deportes y artes escénicas"}],
+
+    "800" : [{
+            "810" : "Literatura norteamericana",
+            "820" : "Literatura inglesa",
+            "830" : "Literatura de las lenguas germánicas",
+            "840" : "Literaturas de las lenguas romances",
+            "850" :"Literaturas italiana, rumana, retorromana",
+            "860" :"Literatura española & portuguesa",
+            "870" : "Literaturas itálicas, Literatura latina",
+            "880" : "Literaturas helénicas, Literatura griega clásica",
+            "890" : "Literatura de otras lenguas"}],
+
+    "900" : [{        
+            "910" : "Geografía y viajes",
+            "920" : "Biografía, genealogía, insignias",
+            "930" : "Historia del mundo antiguo",
+            "940" : "Historia general de Europa",
+            "950" : "Historia general de Asia",
+            "960" : "Historia general de África",
+            "970" : "Historia general de América del Norte",
+            "980" : "Historia general de América del Sur",
+            "990" : "Historia general de otras áreas"}],
+
+    "Generalidades" : [{
+            "001" : "Conocimiento",
+            "002" : "El libro", 
+            "003" : "Sistemas", 
+            "004" : "Procesamiento de datos, informática",
+            "005" : "Programación",
+            "006" : "Métodos informáticos especiales"}],
+
+    "Bibliografía" : [{
+        "011" : "Bibliografías",
+        "012" : "De individuos",
+        "013" : "De obras por clases específicas de autores",
+        "014" : "De obras anónimas & seudónimas",
+        "015" : "De obras de lugares específicos",
+        "016" : "De obras sobre temas específicos",
+        "017" : "Catálogos generales por materia",
+        "018" : " Catálogos ordenados por autor y fecha",
+        "019" : " Catálogos de diccionarios" }],
+
+    "Bibliotecología" : [{
+        "021": "Relaciones bibliotecarias",
+        "022" : "Administración de la planta física",
+        "023" : "Administración de personal",
+        "025" : "Operaciones bibliotecarias",
+        "026" : "Bibliotecas para temas específicos",
+        "027" : "Bibliotecas generales",
+        "028" : "Lectura, uso de otros medios de información"
+
+    }],
+
+    "Obras Enciclopédicas" : [{
+        "031": "Norteamericanas",
+        "032" : "En inglés",
+        "033" : "En otras lenguas germánicas",
+        "034" : "En francés, provenzal,catalán",
+        "035" : "En italiano, rumano, retorromano",
+        "036" : "En español, & portugués",
+        "037" : "En lenguas eslavas",
+        "038" : "En lenguas escandinavas",
+        "039" : "En otras lenguas"
+
+
+    }],
+
+    "Publicaciones seriadas" : [{
+
+        "051": "Norteamericanas",
+        "052" : "En inglés",
+        "053" : "En otras lenguas germánicas",
+        "054" : "En francés, provenzal, catalán",
+        "055" : "En italiano, rumano, retorromano",
+        "056" : "En español & portugués",
+        "057" : "En lenguas eslavas",
+        "058" : "En lenguas escandinavas",
+        "059" : "En otras lenguas"
+    }],
+
+    "Museología" : [{
+
+        "061": "América del Norte",
+        "062" : "Islas Británicas",
+        "063" : "Europa central",
+        "064" : "Francia",
+        "065" : "Italia",
+        "066" : "Península Ibérica",
+        "067" : "Europa Oriental",
+        "068" : "Otras áreas",
+        "069" : "Museología"
+    }],
+
+    "Periodismo" : [{
+
+        "071": "América del Norte",
+        "072" : "Islas Británicas",
+        "073" : "Europa central",
+        "074" : "Francia ",
+        "075" : "Italia",
+        "076" : "Península Ibérica",
+        "077" : "Europa oriental",
+        "078" : "Escandinavia",
+        "079" : "En otras áreas"
+    }],
+
+    "Colecciones Generales" : [{
+
+        "081": "Norteamericanas",
+        "082" : "En inglés",
+        "083" : "En otras lenguas germánicas",
+        "084" : "Francés",
+        "085" : "Italiano",
+        "086" : "Español y Portugués",
+        "087" : "Lenguas Eslavas",
+        "088" : "Lenguas Escandinavas",
+        "089" : "En otras lenguas"
+    }],
+
+    "Libros Raros" : [{
+
+        "091": "Manuscritos",
+        "092" : "Libros xilográficos",
+        "093" : "Incunables",
+        "094" : "Libros impresos",
+        "095" : "Notables por su encuadernación",
+        "096" : "Notables por las ilustraciones",
+        "097" : "Notables por su origen",
+        "098" : "Obras prohibidas",
+        "099" : "Notables por su formato"
+    }],
+
+    "Filosofía" : [{
+
+        "101": "Teoría de la filosofía",
+        "102" : "Miscelánea",
+        "103" : "Diccionarios",        
+        "105" : "Publicaciones seriadas",
+        "106" : "Organizaciones en filosofía",
+        "107" : "Educación, investigación",
+        "108" : "Clases de personas",
+        "109" : "Tratamiento histórico"
+    }]  
+
+    
+            
+    
+
+        
+    
+    
+}
